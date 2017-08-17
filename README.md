@@ -2,6 +2,14 @@
 
 > demo
 
+配置环境
+npm install -g vue-cli
+
+vue init webpack sell
+
+运行项目
+npm  run dev
+
 ## Build Setup
 
 ``` bash
